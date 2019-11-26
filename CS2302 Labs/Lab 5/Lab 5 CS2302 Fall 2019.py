@@ -1,5 +1,5 @@
 # Course:CS 2302 MW 1:30-2:50, Author:David Ayala
-# Assignment:Lab #1, Instructor: Diego Aguirre
+# Assignment:Lab #5, Instructor: Diego Aguirre
 # Teaching Assistant: ????, Date of last Modification: 9/10/2019
 import time
 import PartA as lru
